@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Movement
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ atWorldTopOrBottom()
+comment3.params=
+comment3.target=boolean\ atLeftEdge()
+comment4.params=
+comment4.target=boolean\ atRightEdge()
+comment5.params=clss
+comment5.target=boolean\ canSee(java.lang.Class)
+comment6.params=
+comment6.target=void\ reset()
+numComments=7
