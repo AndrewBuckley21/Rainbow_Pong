@@ -1,12 +1,20 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Rainbow Pong
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+How to play:
+Press “run” with the cursor to start playing.
+The ball will randomly move in the direction of a player.
+The ball will bounce off of a player randomly with a range of 120 degrees.
+The ball will bounce off of the edges with true redirection angles.
+A point is scored when the ball goes past your opponent.
+When a point is scored, the game will reset automatically.
+The player to get 5 points first wins.
+To play again, close out of the program and restart it.
+
+Player 1 (left):
+Move up by pressing the “w” key.
+Move down by pressing the “s” key
+
+Player 2 (right):
+Move up by pressing the “up” arrow.
+Move down by pressing the “down” arrow.
+
